@@ -18,7 +18,6 @@
   </a>
   </div>
 
-## Hey, I'm Steve👋
 
 I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a basic dude, Not a genius.. I love battle royale games, music & anime.
 
@@ -26,6 +25,7 @@ I'm a computer science student, curious about software engineering and developme
     maintenance than it is to reduce the effort of implementation.
 
     — Max Kanat-Alexander.
+    
 
 
 ### Languages and Tools
@@ -40,11 +40,10 @@ I'm a computer science student, curious about software engineering and developme
 <img align="left" alt=" dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <br />
 
-
- ### GitHub Stats
+### GitHub Stats
 
   <img align="left" alt="Steve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <br />
+  
   <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drplxrd&langs_count=8&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
@@ -62,3 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
