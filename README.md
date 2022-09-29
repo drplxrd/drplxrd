@@ -3,6 +3,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
+
+
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/steven-kamanga-19541920b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +19,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+  
+  ## Hello, Im Steve! 👋
 
 
 I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a basic dude, Not a genius.. I love battle royale games, music & anime.
