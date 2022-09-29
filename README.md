@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
@@ -8,15 +10,38 @@
   <a href="https://web.facebook.com/mahssive.kamanga.1/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
+   <a href="https://stackoverflow.com/users/13362387/steven">
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://twitter.com/drplxrd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="header" align="center">
- <h2>Hi there 👋</h2>
-</div>
 
+## Hi there, I'm Steve👋
 
+### I'm a student, Developer, and a gymbro!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other devs 
+- 🥅 2022 Goals: Learn more about backend software dev
+- ⚡ Fun fact: I love battle royale games, music & anime
+
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ -->
 <!--
 **drplxrd/drplxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
