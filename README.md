@@ -22,7 +22,8 @@
 
 I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a basic dude, Not a genius.. I love battle royale games, music & anime.
 
-    It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation.
+    It is more important to reduce the effort of maintenance
+    than it is to reduce the effort of implementation.
 
     — Max Kanat-Alexander.
 
