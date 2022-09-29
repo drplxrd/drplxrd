@@ -20,7 +20,7 @@
 
 ## Hello world, I'm Steve👋
 
-I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a bbasic dude, Not a genius.. I love battle royale games, music & anime.
+I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a basic dude, Not a genius.. I love battle royale games, music & anime.
 
 ### Languages and Tools
 
