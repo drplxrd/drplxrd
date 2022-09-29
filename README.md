@@ -16,16 +16,11 @@
   <a href="https://twitter.com/drplxrd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  </div>
 
-## Hi there, I'm Steve👋
+## Hello world, I'm Steve👋
 
-### I'm a student, Developer, and a gymbro!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other devs 
-- 🥅 2022 Goals: Learn more about backend software dev
-- ⚡ Fun fact: I love battle royale games, music & anime
+I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a bbasic dude, Not a genius.. I love battle royale games, music & anime.
 
 ### Languages and Tools
 
@@ -38,26 +33,13 @@
 <img align="left" alt="C Programming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <br />
-<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+ ### GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- -->
 <!--
 **drplxrd/drplxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
