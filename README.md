@@ -20,7 +20,7 @@
   </a>
   </div>
   
-  ## Hello, Im Steve! 👋
+  ## Hello!, Im Steve! 👋
 
 
 I'm a computer science student, curious about software engineering and development, currently chasing machine learning with aws. I'm a basic dude, Not a genius.. I love battle royale games, music & anime.
