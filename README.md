@@ -51,7 +51,6 @@ I'm a computer science student, curious about software engineering and developme
   
 
   <br />
-    <br />
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drplxrd&langs_count=8&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
