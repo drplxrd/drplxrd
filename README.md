@@ -48,15 +48,17 @@ I'm a computer science student, curious about software engineering and developme
 <img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/373441/arduino.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/424904/logo-google-android-studio-2.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/373554/django.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" style="padding-right:10px;" />
 <br />
-
 
 
 
 ### GitHub Stats
   <br />
   
-  <img align="left" alt="Steve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Steve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact" />
   
     
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=drplxrd&layout=compact&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
