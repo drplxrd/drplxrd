@@ -44,6 +44,9 @@ I'm a computer science student, curious about software engineering and developme
 <img align="left" alt="C Programming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/232495/java.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/373669/html.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/373441/arduino.svg" style="padding-right:10px;" />
 <br />
 
 
