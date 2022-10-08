@@ -1,8 +1,6 @@
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
 
 
-<!-- <div id="badges" align = "center">
+ <div id="badges" align = "">
   <a href="https://www.linkedin.com/in/steven-kamanga-19541920b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,8 +13,10 @@
   <a href="https://twitter.com/drplxrd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  </div> -->
-  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+  </div> 
+  
+  
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
@@ -43,7 +43,9 @@ I'm a computer science student, curious about software engineering and developme
 <img align="left" alt="C Programming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C Programming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt=" dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
+<img align="left" alt=" dart" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" style="padding-right:10px;" />
 <br />
+
 
 ### GitHub Stats
   <br />
