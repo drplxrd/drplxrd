@@ -54,8 +54,7 @@ I'm a computer science student, curious about software engineering and developme
 <br />  <br />
     <br />
     <br />
-    <br />
-    <br />
+    
   
 
 
