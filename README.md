@@ -50,8 +50,7 @@ I'm a computer science student, curious about software engineering and developme
   <img align="left" alt="Steve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drplxrd&show_icons=true&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drplxrd&langs_count=8&hide_border=false&title_color=ffffff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=drplxrd&layout=compact)
 <!--
 **drplxrd/drplxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
